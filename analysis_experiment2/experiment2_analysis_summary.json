@@ -1,0 +1,218 @@
+{
+  "alpha_0.95_betaU_0.3": {
+    "final_infection": 0.03642139193116469,
+    "settling_time": 14.4677734375,
+    "alpha": 0.95,
+    "beta_U": 0.3
+  },
+  "alpha_0.95_betaU_0.4": {
+    "final_infection": 0.10354156245393921,
+    "settling_time": 5.7861328125,
+    "alpha": 0.95,
+    "beta_U": 0.4
+  },
+  "alpha_0.95_betaU_0.5": {
+    "final_infection": 0.17197668061402657,
+    "settling_time": 0.810546875,
+    "alpha": 0.95,
+    "beta_U": 0.5
+  },
+  "alpha_0.95_betaU_0.6": {
+    "final_infection": 0.23418663557671965,
+    "settling_time": 1.4111328125,
+    "alpha": 0.95,
+    "beta_U": 0.6
+  },
+  "alpha_0.95_betaU_0.8": {
+    "final_infection": 0.33643894362540555,
+    "settling_time": 1.5673828125,
+    "alpha": 0.95,
+    "beta_U": 0.8
+  },
+  "alpha_0.95_betaU_1.0": {
+    "final_infection": 0.4145443797286158,
+    "settling_time": 1.357421875,
+    "alpha": 0.95,
+    "beta_U": 1.0
+  },
+  "alpha_0.9_betaU_0.3": {
+    "final_infection": 0.03801536062081519,
+    "settling_time": 15.0537109375,
+    "alpha": 0.9,
+    "beta_U": 0.3
+  },
+  "alpha_0.9_betaU_0.4": {
+    "final_infection": 0.1039578029845564,
+    "settling_time": 6.083984375,
+    "alpha": 0.9,
+    "beta_U": 0.4
+  },
+  "alpha_0.9_betaU_0.5": {
+    "final_infection": 0.1719410620366387,
+    "settling_time": 0.8203125,
+    "alpha": 0.9,
+    "beta_U": 0.5
+  },
+  "alpha_0.9_betaU_0.6": {
+    "final_infection": 0.23394860216156046,
+    "settling_time": 1.533203125,
+    "alpha": 0.9,
+    "beta_U": 0.6
+  },
+  "alpha_0.9_betaU_0.8": {
+    "final_infection": 0.33605443552055975,
+    "settling_time": 1.7138671875,
+    "alpha": 0.9,
+    "beta_U": 0.8
+  },
+  "alpha_0.9_betaU_1.0": {
+    "final_infection": 0.41412666754488275,
+    "settling_time": 1.4697265625,
+    "alpha": 0.9,
+    "beta_U": 1.0
+  },
+  "alpha_0.8_betaU_0.3": {
+    "final_infection": 0.0418552802200943,
+    "settling_time": 15.60546875,
+    "alpha": 0.8,
+    "beta_U": 0.3
+  },
+  "alpha_0.8_betaU_0.4": {
+    "final_infection": 0.10509727652606903,
+    "settling_time": 6.4990234375,
+    "alpha": 0.8,
+    "beta_U": 0.4
+  },
+  "alpha_0.8_betaU_0.5": {
+    "final_infection": 0.17180588402420113,
+    "settling_time": 0.869140625,
+    "alpha": 0.8,
+    "beta_U": 0.5
+  },
+  "alpha_0.8_betaU_0.6": {
+    "final_infection": 0.2332055200995363,
+    "settling_time": 1.884765625,
+    "alpha": 0.8,
+    "beta_U": 0.6
+  },
+  "alpha_0.8_betaU_0.8": {
+    "final_infection": 0.33486193080522947,
+    "settling_time": 2.1044921875,
+    "alpha": 0.8,
+    "beta_U": 0.8
+  },
+  "alpha_0.8_betaU_1.0": {
+    "final_infection": 0.41283179651173224,
+    "settling_time": 1.7919921875,
+    "alpha": 0.8,
+    "beta_U": 1.0
+  },
+  "alpha_0.7_betaU_0.3": {
+    "final_infection": 0.04652513244973871,
+    "settling_time": 15.6591796875,
+    "alpha": 0.7,
+    "beta_U": 0.3
+  },
+  "alpha_0.7_betaU_0.4": {
+    "final_infection": 0.10663110683384283,
+    "settling_time": 6.5283203125,
+    "alpha": 0.7,
+    "beta_U": 0.4
+  },
+  "alpha_0.7_betaU_0.5": {
+    "final_infection": 0.17151882231656207,
+    "settling_time": 0.9765625,
+    "alpha": 0.7,
+    "beta_U": 0.5
+  },
+  "alpha_0.7_betaU_0.6": {
+    "final_infection": 0.2319725549828746,
+    "settling_time": 2.34375,
+    "alpha": 0.7,
+    "beta_U": 0.6
+  },
+  "alpha_0.7_betaU_0.8": {
+    "final_infection": 0.33289308976277776,
+    "settling_time": 2.607421875,
+    "alpha": 0.7,
+    "beta_U": 0.8
+  },
+  "alpha_0.7_betaU_1.0": {
+    "final_infection": 0.4106880542077791,
+    "settling_time": 2.2216796875,
+    "alpha": 0.7,
+    "beta_U": 1.0
+  },
+  "alpha_0.6_betaU_0.3": {
+    "final_infection": 0.051957685297868365,
+    "settling_time": 15.341796875,
+    "alpha": 0.6,
+    "beta_U": 0.3
+  },
+  "alpha_0.6_betaU_0.4": {
+    "final_infection": 0.10850506733908485,
+    "settling_time": 6.0009765625,
+    "alpha": 0.6,
+    "beta_U": 0.4
+  },
+  "alpha_0.6_betaU_0.5": {
+    "final_infection": 0.17097091953941582,
+    "settling_time": 1.1474609375,
+    "alpha": 0.6,
+    "beta_U": 0.5
+  },
+  "alpha_0.6_betaU_0.6": {
+    "final_infection": 0.23005551473619,
+    "settling_time": 2.841796875,
+    "alpha": 0.6,
+    "beta_U": 0.6
+  },
+  "alpha_0.6_betaU_0.8": {
+    "final_infection": 0.3298384793237771,
+    "settling_time": 3.170572916666667,
+    "alpha": 0.6,
+    "beta_U": 0.8
+  },
+  "alpha_0.6_betaU_1.0": {
+    "final_infection": 0.40734067724748985,
+    "settling_time": 2.721354166666667,
+    "alpha": 0.6,
+    "beta_U": 1.0
+  },
+  "alpha_0.5_betaU_0.3": {
+    "final_infection": 0.05804545903771916,
+    "settling_time": 14.62158203125,
+    "alpha": 0.5,
+    "beta_U": 0.3
+  },
+  "alpha_0.5_betaU_0.4": {
+    "final_infection": 0.11061982996898562,
+    "settling_time": 4.74609375,
+    "alpha": 0.5,
+    "beta_U": 0.4
+  },
+  "alpha_0.5_betaU_0.5": {
+    "final_infection": 0.1700187824473043,
+    "settling_time": 1.353515625,
+    "alpha": 0.5,
+    "beta_U": 0.5
+  },
+  "alpha_0.5_betaU_0.6": {
+    "final_infection": 0.22722325732514276,
+    "settling_time": 3.2890625,
+    "alpha": 0.5,
+    "beta_U": 0.6
+  },
+  "alpha_0.5_betaU_0.8": {
+    "final_infection": 0.32532502189995777,
+    "settling_time": 3.707682291666667,
+    "alpha": 0.5,
+    "beta_U": 0.8
+  },
+  "alpha_0.5_betaU_1.0": {
+    "final_infection": 0.4023498312048745,
+    "settling_time": 3.2177734375,
+    "alpha": 0.5,
+    "beta_U": 1.0
+  }
+}
