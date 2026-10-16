@@ -1,0 +1,11 @@
+{
+  "lambd": 0.3,
+  "gamma": 0.3333333333333333,
+  "delta": 0.5,
+  "mu": 1.0,
+  "beta_U": 0.2,
+  "N": 50,
+  "m_consciousness": 4,
+  "m_risk": 2,
+  "alpha": 0.6
+}

@@ -1,0 +1,23 @@
+{
+  "network": {
+    "N": 250,
+    "m_A": 4,
+    "seed_A": 42,
+    "m_B": 2,
+    "seed_B": 43
+  },
+  "params": {
+    "lambda": 0.3,
+    "delta": 0.5,
+    "mu": 1.0,
+    "gamma": 0.3333333333333333
+  },
+  "rho_B": 7.945579964347755,
+  "beta_Rbar0_equals_1": 0.12585613693236414,
+  "rho_DB": 3.4550074151495522,
+  "beta_R0_equals_1": 0.28943497939112656,
+  "manuscript_values": {
+    "beta_Rbar0_equals_1": 0.126,
+    "beta_R0_equals_1": 0.289
+  }
+}

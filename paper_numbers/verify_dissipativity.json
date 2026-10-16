@@ -1,0 +1,18 @@
+{
+  "network": {
+    "N": 250,
+    "m_A": 4,
+    "m_B": 2,
+    "seed": 1
+  },
+  "params": {
+    "lambda": 0.3,
+    "delta": 0.5,
+    "mu": 1.0,
+    "gamma": 0.3333333333333333,
+    "beta_U": 0.6
+  },
+  "procedure": "5e4 samples on face p^AI=0 + 6 local-maximization restarts (rng seed 4242)",
+  "largest_value_found": -0.19168865851011202,
+  "manuscript_value": -0.19
+}
