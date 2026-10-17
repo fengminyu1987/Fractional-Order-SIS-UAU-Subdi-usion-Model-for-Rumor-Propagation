@@ -1,0 +1,13 @@
+{
+  "N": 250,
+  "mu": 1.0,
+  "delta": 0.2,
+  "lambd": 1.0,
+  "beta_U": 0.3,
+  "gamma": 0.3333333333333333,
+  "alpha": 0.8,
+  "m_consciousness": 4,
+  "m_risk": 2,
+  "T": 20.0,
+  "N_steps": 8192
+}

@@ -1,0 +1,65 @@
+{
+  "ER_ER": {
+    "final_US": 0.23311599746617978,
+    "final_AS": 0.42511469879821,
+    "final_AI": 0.34176930373561015,
+    "consciousness_network": "ER",
+    "risk_network": "ER"
+  },
+  "ER_BA": {
+    "final_US": 0.17758696520070175,
+    "final_AS": 0.45241249869953176,
+    "final_AI": 0.37000053609976646,
+    "consciousness_network": "ER",
+    "risk_network": "BA"
+  },
+  "ER_Regular": {
+    "final_US": 0.18133303286029545,
+    "final_AS": 0.46979829371489107,
+    "final_AI": 0.3488686734248134,
+    "consciousness_network": "ER",
+    "risk_network": "Regular"
+  },
+  "BA_ER": {
+    "final_US": 0.23350993750945997,
+    "final_AS": 0.42260228897643576,
+    "final_AI": 0.3438877735141043,
+    "consciousness_network": "BA",
+    "risk_network": "ER"
+  },
+  "BA_BA": {
+    "final_US": 0.1840272504130786,
+    "final_AS": 0.44314154591762894,
+    "final_AI": 0.37283120366929245,
+    "consciousness_network": "BA",
+    "risk_network": "BA"
+  },
+  "BA_Regular": {
+    "final_US": 0.18255243575770588,
+    "final_AS": 0.46629453298340046,
+    "final_AI": 0.35115303125889363,
+    "consciousness_network": "BA",
+    "risk_network": "Regular"
+  },
+  "Regular_ER": {
+    "final_US": 0.2296505669119474,
+    "final_AS": 0.428791697532674,
+    "final_AI": 0.3415577355553786,
+    "consciousness_network": "Regular",
+    "risk_network": "ER"
+  },
+  "Regular_BA": {
+    "final_US": 0.17750458991874118,
+    "final_AS": 0.4527764551123755,
+    "final_AI": 0.3697189549688833,
+    "consciousness_network": "Regular",
+    "risk_network": "BA"
+  },
+  "Regular_Regular": {
+    "final_US": 0.1810844181863858,
+    "final_AS": 0.470469751327381,
+    "final_AI": 0.3484458304862333,
+    "consciousness_network": "Regular",
+    "risk_network": "Regular"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "Baseline_alpha_0.7": {
+    "final_U": 0.15688944406580585,
+    "final_A": 0.6154951711110438,
+    "final_I": 0.22761538482315027,
+    "params": {
+      "name": "Baseline",
+      "lambd": 0.3,
+      "beta_U": 0.6,
+      "gamma": 0.3333333333333333,
+      "delta": 0.5,
+      "mu": 1.0
+    },
+    "alpha": 0.7
+  },
+  "Baseline_alpha_0.8": {
+    "final_U": 0.15083479726153207,
+    "final_A": 0.6202787397373081,
+    "final_I": 0.22888646300115972,
+    "params": {
+      "name": "Baseline",
+      "lambd": 0.3,
+      "beta_U": 0.6,
+      "gamma": 0.3333333333333333,
+      "delta": 0.5,
+      "mu": 1.0
+    },
+    "alpha": 0.8
+  },
+  "Baseline_alpha_0.9": {
+    "final_U": 0.14716928224424178,
+    "final_A": 0.6231745697844329,
+    "final_I": 0.22965614797132544,
+    "params": {
+      "name": "Baseline",
+      "lambd": 0.3,
+      "beta_U": 0.6,
+      "gamma": 0.3333333333333333,
+      "delta": 0.5,
+      "mu": 1.0
+    },
+    "alpha": 0.9
+  },
+  "High Infection_alpha_0.7": {
+    "final_U": 0.06740782835201604,
+    "final_A": 0.37402367935761777,
+    "final_I": 0.5585684922903662,
+    "params": {
+      "name": "High Infection",
+      "lambd": 0.1,
+      "beta_U": 1.5,
+      "gamma": 0.3333333333333333,
+      "delta": 0.5,
+      "mu": 1.0
+    },
+    "alpha": 0.7
+  },
+  "High Infection_alpha_0.8": {
+    "final_U": 0.06316428510930301,
+    "final_A": 0.3771854881461611,
+    "final_I": 0.559650226744536,
+    "params": {
+      "name": "High Infection",
+      "lambd": 0.1,
+      "beta_U": 1.5,
+      "gamma": 0.3333333333333333,
+      "delta": 0.5,
+      "mu": 1.0
+    },
+    "alpha": 0.8
+  },
+  "High Infection_alpha_0.9": {
+    "final_U": 0.06060192742010375,
+    "final_A": 0.3791163318053197,
+    "final_I": 0.5602817407745766,
+    "params": {
+      "name": "High Infection",
+      "lambd": 0.1,
+      "beta_U": 1.5,
+      "gamma": 0.3333333333333333,
+      "delta": 0.5,
+      "mu": 1.0
+    },
+    "alpha": 0.9
+  },
+  "High Awareness_alpha_0.7": {
+    "final_U": 0.03905013369824939,
+    "final_A": 0.9453124632932074,
+    "final_I": 0.01563740300854328,
+    "params": {
+      "name": "High Awareness",
+      "lambd": 1.0,
+      "beta_U": 0.3,
+      "gamma": 0.3333333333333333,
+      "delta": 0.2,
+      "mu": 1.0
+    },
+    "alpha": 0.7
+  },
+  "High Awareness_alpha_0.8": {
+    "final_U": 0.03642535245366222,
+    "final_A": 0.9538084986033865,
+    "final_I": 0.009766148942951308,
+    "params": {
+      "name": "High Awareness",
+      "lambd": 1.0,
+      "beta_U": 0.3,
+      "gamma": 0.3333333333333333,
+      "delta": 0.2,
+      "mu": 1.0
+    },
+    "alpha": 0.8
+  },
+  "High Awareness_alpha_0.9": {
+    "final_U": 0.03489894201623588,
+    "final_A": 0.96025558669909,
+    "final_I": 0.004845471284674118,
+    "params": {
+      "name": "High Awareness",
+      "lambd": 1.0,
+      "beta_U": 0.3,
+      "gamma": 0.3333333333333333,
+      "delta": 0.2,
+      "mu": 1.0
+    },
+    "alpha": 0.9
+  }
+}
